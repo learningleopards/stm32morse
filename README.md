@@ -6,7 +6,6 @@ For Morse code transmitter, the blink is modified to transmit the 3 different le
 <img width="524" alt="image" src="https://user-images.githubusercontent.com/92903308/203853221-82a5e369-101c-4c12-9ee2-499124a0d727.png">
 
 The code snippet shows the morse code for each letter. 
-
 ![image](https://user-images.githubusercontent.com/92903308/203853060-9694aaf4-774f-4e47-b6c1-8f4bc792e7b2.png)
 
 
