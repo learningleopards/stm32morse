@@ -16,7 +16,7 @@ The dash signal is represented with blinky for 5 sec that represent the signal i
 
 The dash signal is represented with blinky for 5 sec and the following dot blinky for 2 sec to represent the signal in morse code for letter “N”. The delay of 1 sec is to separate the dash and dot signal. 
 
-The code snippet shows the morse code for each letter. 
+The code snippet shows the blinky is modified to signal in morse code for each letter.
 
 ![image](https://user-images.githubusercontent.com/92903308/203853060-9694aaf4-774f-4e47-b6c1-8f4bc792e7b2.png)
 
