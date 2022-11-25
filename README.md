@@ -4,14 +4,14 @@
 
 For Morse code transmitter, the blink is modified to transmit the 3 different letters representing 3 group members repeatedly which are D, T and N. Based on the image below, the length of a dot is one unit and a dash is three units. The space between parts of the same letter is one unit.The space between letters is three units. The space between words is seven units.
 
+<img width="524" alt="image" src="https://user-images.githubusercontent.com/92903308/203853221-82a5e369-101c-4c12-9ee2-499124a0d727.png">
+
 - The letter ‘D’ represented as 
 The dash signal is represented with blinky for 5 sec, the second dot represented with blinky for 2 sec and the third dot is blinky for 2 sec to represent the signal in morse code for letter “D”. The delay of 1 sec is to separate the dash and dot signal.
 - The letter ‘T’ represented as
 The dash signal is represented with blinky for 5 sec that represent the signal in morse code for letter “T”. The delay of 1 sec is to separate the next letter.
 - The letter ‘N’ represented as
 The dash signal is represented with blinky for 5 sec and the following dot blinky for 2 sec to represent the signal in morse code for letter “N”. The delay of 1 sec is to separate the dash and dot signal. 
-
-<img width="524" alt="image" src="https://user-images.githubusercontent.com/92903308/203853221-82a5e369-101c-4c12-9ee2-499124a0d727.png">
 
 The code snippet shows the morse code for each letter. 
 
